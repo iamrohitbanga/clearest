@@ -1,0 +1,79 @@
+Computing for function: lg n
+n = 2 ^ 1000000.0 for 1 second
+n = 2 ^ 60000000.0 for 1 minute
+n = 2 ^ 3600000000.0 for 1 hour
+n = 2 ^ 86400000000.0 for 1 day
+n = 2 ^ 2592000000000.0 for 1 day
+n = 2 ^ 31536000000000.0 for 1 year
+n = 2 ^ 3.1536e+15 for 1 century
+
+
+Computing for function: sqrt(n)
+n = 1000000000000.0 for 1 second
+n = 3.6e+15 for 1 minute
+n = 1.296e+19 for 1 hour
+n = 7.46496e+21 for 1 day
+n = 6.718464e+24 for 1 day
+n = 9.94519296e+26 for 1 year
+n = 9.94519296e+30 for 1 century
+
+
+Computing for function: n
+n = 1000000.0 for 1 second
+n = 60000000.0 for 1 minute
+n = 3600000000.0 for 1 hour
+n = 86400000000.0 for 1 day
+n = 2592000000000.0 for 1 day
+n = 31536000000000.0 for 1 year
+n = 3.1536e+15 for 1 century
+
+
+Computing for function: n lg n
+n = 62746.0 for 1 second
+n = 2801418.0 for 1 minute
+n = 133378059.0 for 1 hour
+n = 2755147513.0 for 1 day
+n = 71870856404.0 for 1 day
+n = 797633893349.0 for 1 year
+n = 68610956750570.0 for 1 century
+
+
+Computing for function: n²
+n = 999 for 1 second
+n = 7745 for 1 minute
+n = 59999 for 1 hour
+n = 293938 for 1 day
+n = 1609968 for 1 day
+n = 5615692 for 1 year
+n = 56156922 for 1 century
+
+
+Computing for function: n³
+n = 99 for 1 second
+n = 391 for 1 minute
+n = 1532 for 1 hour
+n = 4420 for 1 day
+n = 13736 for 1 day
+n = 31593 for 1 year
+n = 146645 for 1 century
+
+
+Computing for function: 2^n
+n = 19 for 1 second
+n = 25 for 1 minute
+n = 31 for 1 hour
+n = 36 for 1 day
+n = 41 for 1 day
+n = 44 for 1 year
+n = 51 for 1 century
+
+
+Computing for function: n!
+n = 9 for 1 second
+n = 11 for 1 minute
+n = 12 for 1 hour
+n = 13 for 1 day
+n = 15 for 1 day
+n = 16 for 1 year
+n = 17 for 1 century
+
